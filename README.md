@@ -1,2 +1,2 @@
-# MynenkoOleg.github.io
+# olegmynenko.github.io
 Homework 3
